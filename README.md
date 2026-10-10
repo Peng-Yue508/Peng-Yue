@@ -22,15 +22,3 @@ Skilled in SQL, report automation and agent construction, good at extracting bus
 
 ## 📬 Contact
 Email: 1928531784@qq.com.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-
-
-</p>
-
-<p align="center">
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Peng-Yue.Peng-Yue)
-</p>
