@@ -1,4 +1,4 @@
-<h1 align="center">Peng Yue</h1>
+<h1 align="center">Hi!👋 I'm Peng Yue</h1>
 
 <p align="center">
 Economics background, focusing on data analysis & automated workflow practice.
